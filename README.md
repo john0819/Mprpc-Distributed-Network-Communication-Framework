@@ -141,10 +141,3 @@ message Response {
     bool result = 3;
 }
 
-
-## Contributing
-Feel free to fork the project, create a branch, make changes, and submit pull requests. All contributions are welcome!
-
-## Contact
-For any queries, please contact the project maintainer.
-
